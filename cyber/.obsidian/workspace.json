@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "62b2f89352da7230",
+    "type": "split",
+    "children": [
+      {
+        "id": "a020a67e95311e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64c7802daa4f9f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learning Plan/Study map.canvas",
+                "viewState": {
+                  "x": -15,
+                  "y": -350,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study map"
+            }
+          },
+          {
+            "id": "09353b3b22634388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Plan/Como crear un learning plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como crear un learning plan"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "487100064af08574",
+    "type": "split",
+    "children": [
+      {
+        "id": "7174feea1d5ba313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a61a252848a6a31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6faf39b985a32d41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe39bfd37d7bae56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc8c9fac47cba4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86115dd63c07a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32af622ebd0b4872",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fd426eab6c6cf34a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "97846c6373c307af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e7443586485660c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9a61a252848a6a31",
+  "lastOpenFiles": [
+    "Learning Plan/Excalidraw.md",
+    "Learning Plan/Study map.canvas",
+    "Process Injection Analyst/1. Introducción.md",
+    "Learning Plan/Como crear un learning plan.md",
+    "Process Injection Analyst/3. Advanced Procedure CALL APC.md",
+    "Process Injection Analyst/2. Classic Process Injection.md",
+    "Conceptos varios/Handle.md",
+    "Learning Plan",
+    "Pasted image 20241218213124.png",
+    "Pasted image 20241202221555.png",
+    "Conceptos varios",
+    "Welcome.md",
+    "Process Injection Analyst"
+  ]
+}
