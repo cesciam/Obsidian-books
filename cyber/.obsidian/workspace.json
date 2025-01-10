@@ -28,14 +28,17 @@
             "id": "09353b3b22634388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Learning Plan/Como crear un learning plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Learning Plan/Study map.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -560,
+                  "zoom": -0.04683316480987092
+                }
               },
-              "icon": "lucide-file",
-              "title": "Como crear un learning plan"
+              "icon": "lucide-layout-dashboard",
+              "title": "Study map"
             }
           }
         ],
@@ -177,12 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a61a252848a6a31",
+  "active": "09353b3b22634388",
   "lastOpenFiles": [
     "Learning Plan/Excalidraw.md",
+    "Learning Plan/Como crear un learning plan.md",
     "Learning Plan/Study map.canvas",
     "Process Injection Analyst/1. Introducción.md",
-    "Learning Plan/Como crear un learning plan.md",
     "Process Injection Analyst/3. Advanced Procedure CALL APC.md",
     "Process Injection Analyst/2. Classic Process Injection.md",
     "Conceptos varios/Handle.md",

@@ -3,7 +3,7 @@
 		{"id":"4b9e1bb61bc0e3cb","type":"text","text":"# Objetivos:\n- Análisis de inyección de código\n- Crear malware capaz de hacer inyección de código\n- Explicar Inyección de codigo y sus diferentes variantes","x":-980,"y":-440,"width":300,"height":260},
 		{"id":"8b8da3391a54e13a","type":"text","text":"# Topics\n- [x] Introduction\n- [x] Classic Process Injection\n- [ ] APC\n- [ ] Section Mapping\n- [ ] Module Stomping\n- [ ] Process hollowing\n- [ ] Process Doppleganging\n- [ ] Transacted Hollowing\n- [ ] Process Herpaderping\n- [ ] Process ghosting\n","x":-580,"y":-780,"width":250,"height":480},
 		{"id":"54b6109288fd2241","type":"text","text":"Process Injection","x":-200,"y":-940,"width":250,"height":60},
-		{"id":"5d95aae2e6a46d1e","type":"text","text":"# To do\n- [ ] Configurar Github PC\n- [ ] Sync obsidian con Github","x":220,"y":-800,"width":280,"height":150}
+		{"id":"5d95aae2e6a46d1e","type":"text","text":"# To do\n- [x] Configurar Github PC\n- [x] Sync obsidian con Github","x":220,"y":-800,"width":280,"height":150}
 	],
 	"edges":[
 		{"id":"7d3af6acc1a0ef92","fromNode":"54b6109288fd2241","fromSide":"left","toNode":"8b8da3391a54e13a","toSide":"top"},
