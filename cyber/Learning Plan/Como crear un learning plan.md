@@ -65,6 +65,26 @@ Ver el video con captions? Mejor, aprendo mejor por medio de leer.
 
 Finalmente, si ninguna me sirvió realmente, buscar un blogpost sobre lo visto y ver si lo entiendo de mejor forma. 
 
-Así voy a encontra cual es la mejor forma en la que proceso información. 
+De esta forma voy a encontrar cual es la mejor forma en la que proceso información. 
 
 Luego de hacer la prueba, tomo nota en mi learning plan sobre cual es la forma en la cual mejor aprendí. 
+
+# Cognitive Load Theory
+Es una teoría que habla sobre la capacidad de trabajo disponible a la hora de estudiar. En otras palabras, habla de los recrusos disponibles cuando se está aprendiendo. 
+La teoría divide el aprender en 3 tareas principales:
+* **Intrinsic load:** Se refiere a la dificultad que ya supone una tarea en especifico. No hay forma de esquivarlo. Es la dificultad misma de aprender. Es un esfuerzo que se ve reducido en el tiempo, ya que mientras uno aprende, más sencillo se hace, aunque siempre debe existir un esfuerzo para que valga. 
+* **Germane load:** Son los nuevos conocimientos/tareas/habilidades que estoy aprendiendo. Es la razón del porqué estoy estudiando. 
+* **Extraneous load**: Son aquellas tareas que se deben realizar, pero que no están realmente relacionadas con el aprendizaje en sí. En mi caso ha sido Github, la máquina virtual, etc. Todo lo que ha requerido para poder tener el ambiente listo para aprender. Todo este esfuerzo realmente no tiene mucho que ver con mi objetivo de aprendizaje. 
+
+¿Y qué me importa todo esto?
+No todos los materiales van a tomar estas variables en cuenta. Algunos pueden ser muy dificiles de entender ya sea por mi conocimiento base, o por todo lo que se presupone que uno ya sabe. O también requieren mucho de tiempo de lab que no es sencillo de preparar. 
+El tiempo y energía son claves y hay que saber distribuir. A la hora de aprender el reducir el intrinsic y extraneous es clave, ya que esto nos va a permitir enforcarnos en lo que se requiere aprender y no en tareas secundarias. 
+Preguntas que hacer al momento de aprender:
+- Entiendo la mayoría de lo que se está diciendo?
+	- Si no, mucho I.L
+- Estoy invirtiendo el tiempo en lo que quiero aprender y no en setups?
+	- Si no, E.L muy alta
+- Me siento retado sin ser agotador en las tareas del aprendizaje?
+
+Si no me siento listo para un material, es normal. Lo que debo hacer es ir a un material que es más adecuado para mí, y cuando ya me sienta listo. Puedo volver a esos cursos en especifico. 
+

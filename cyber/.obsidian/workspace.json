@@ -28,17 +28,14 @@
             "id": "09353b3b22634388",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Learning Plan/Study map.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": -560,
-                  "zoom": -0.04683316480987092
-                }
+                "file": "Learning Plan/Como crear un learning plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Study map"
+              "icon": "lucide-file",
+              "title": "Como crear un learning plan"
             }
           }
         ],
@@ -182,16 +179,18 @@
   },
   "active": "09353b3b22634388",
   "lastOpenFiles": [
-    "Learning Plan/Excalidraw.md",
-    "Learning Plan/Como crear un learning plan.md",
     "Learning Plan/Study map.canvas",
+    "Learning Plan/Como crear un learning plan.md",
+    "files.md",
+    "files",
+    "Learning Plan/Excalidraw.md",
     "Process Injection Analyst/1. Introducción.md",
     "Process Injection Analyst/3. Advanced Procedure CALL APC.md",
     "Process Injection Analyst/2. Classic Process Injection.md",
     "Conceptos varios/Handle.md",
     "Learning Plan",
-    "Pasted image 20241218213124.png",
-    "Pasted image 20241202221555.png",
+    "files/Pasted image 20241218213124.png",
+    "files/Pasted image 20241202221555.png",
     "Conceptos varios",
     "Welcome.md",
     "Process Injection Analyst"
