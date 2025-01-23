@@ -88,4 +88,18 @@ Preguntas que hacer al momento de aprender:
 
 Si no me siento listo para un material, es normal. Lo que debo hacer es ir a un material que es más adecuado para mí, y cuando ya me sienta listo. Puedo volver a esos cursos en especifico. 
 
-prueba
+---
+# El fallo es necesario
+El fallo no solo está bien, si no que también es necesario. Hacer cursos dificiles, no entender conceptos, no lograr completar retos, todo esto es necesario para poder aprender. 
+
+Solo la repetición de errores nos va a llevar al éxito. No todo reside en el fallo. Hay que aprender del fallo. Entender como ocurrió y porqué. Luego ir e intentarlo de nuevo. 
+
+Si cuando aprendo algo, no sé ni si quiera qué preguntas hacer, entonces voy por mal camino.
+
+Pero... El fallo no puede algo tan constante conforme pasa el tiempo.
+Un ejemplo que da con los CTF:
+* intentar el CTF
+* Si no lo logré, ver el walkthrough
+* Entender el walkthrough/ write up
+* Luego de entender el write up, volver a intentarlo
+* Explicar lo hecho con mis propias palabras. Si no puedo hacerlo, eso significa que no lo estoy entendiendo del todo 
