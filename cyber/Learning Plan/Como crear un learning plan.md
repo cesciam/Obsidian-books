@@ -88,3 +88,4 @@ Preguntas que hacer al momento de aprender:
 
 Si no me siento listo para un material, es normal. Lo que debo hacer es ir a un material que es más adecuado para mí, y cuando ya me sienta listo. Puedo volver a esos cursos en especifico. 
 
+prueba
