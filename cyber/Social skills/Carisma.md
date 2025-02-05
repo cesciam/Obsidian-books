@@ -11,4 +11,9 @@ El carisma de compone de 3 componentes
 
 Primer practica para entrenar la presencia
 - Meditación: Nuestro ancla va a ser el sonido, el tacto de mis pies, o mi respiración
-	- 
+
+|        | Technical skills | External Skills | Internal Skills |
+| ------ | ---------------- | --------------- | --------------- |
+| High   |                  |                 | x               |
+| Medium | x                | x               |                 |
+| Low    |                  |                 |                 |

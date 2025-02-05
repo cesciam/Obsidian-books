@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cdad181d2e2d0c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c43d64ae33915f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09926d645757f3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadistica 1/Naturaleza de la estadistica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naturaleza de la estadistica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ba1f3911fcfeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1aa92bc1906e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092865bdc229d74e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c1a868f454901196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b060d03ffe57d99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a51684f68b87ccac",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f18012085d0e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcdef4ee15013a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estadistica 1/Naturaleza de la estadistica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Naturaleza de la estadistica"
+            }
+          },
+          {
+            "id": "618717ff33242973",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estadistica 1/Naturaleza de la estadistica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Naturaleza de la estadistica"
+            }
+          },
+          {
+            "id": "a7e4afe0bd5ca5ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fdd820d1c6bcec3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estadistica 1/Naturaleza de la estadistica.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Naturaleza de la estadistica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09926d645757f3d2",
+  "lastOpenFiles": [
+    "Estadistica 1/Naturaleza de la estadistica.md",
+    "Estadistica 1"
+  ]
+}
