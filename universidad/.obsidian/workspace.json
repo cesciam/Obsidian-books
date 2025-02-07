@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09926d645757f3d2",
+  "active": "092865bdc229d74e",
   "lastOpenFiles": [
+    "Novela Hispanoamericana",
     "Estadistica 1/Naturaleza de la estadistica.md",
     "Estadistica 1"
   ]
