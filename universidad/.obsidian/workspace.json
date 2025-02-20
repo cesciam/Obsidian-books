@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novela Hispanoamericana/1 Capitulo.md",
+                "file": "Estadistica 1/1. Naturaleza de la estadistica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Capitulo"
+              "title": "1. Naturaleza de la estadistica"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "09926d645757f3d2",
   "lastOpenFiles": [
+    "Estadistica 1/2. Datos y técnicas de recolección.md",
     "Estadistica 1/1. Naturaleza de la estadistica.md",
-    "Novela Hispanoamericana/1 Capitulo.md",
     "Estadistica 1/1. Autoevaluación.md",
+    "Novela Hispanoamericana/1 Capitulo.md",
     "Novela Hispanoamericana",
     "Estadistica 1"
   ]
