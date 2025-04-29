@@ -11,10 +11,12 @@
             "id": "82b1bf44f9e2354a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -159,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092865bdc229d74e",
+  "active": "82b1bf44f9e2354a",
   "lastOpenFiles": [
     "Estadistica 1/1. Naturaleza de la estadistica.md",
     "Estadistica 1/1. Autoevaluación.md",
