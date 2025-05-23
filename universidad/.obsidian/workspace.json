@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "364d06614362f1fd",
+        "id": "1713fb36d8ff4c89",
         "type": "tabs",
         "children": [
           {
-            "id": "82b1bf44f9e2354a",
+            "id": "bf78cdbed7270225",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82b1bf44f9e2354a",
+  "active": "bf78cdbed7270225",
   "lastOpenFiles": [
     "Estadistica 1/1. Naturaleza de la estadistica.md",
     "Estadistica 1/1. Autoevaluación.md",
